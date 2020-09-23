@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 
 public class TestBaseTeam02 {
 
-    static WebDriver driver;
+    public static WebDriver driver;
 
     @BeforeClass
     public static void setup(){
